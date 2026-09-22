@@ -1,2 +1,2 @@
-# .github.io
+# .dana.io
 letter for dana
